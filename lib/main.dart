@@ -8,7 +8,6 @@ void main() {
   runApp(const MyApp());
 }
 
-//hola mundooooo
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
