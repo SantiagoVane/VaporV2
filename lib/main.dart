@@ -8,6 +8,7 @@ void main() {
   runApp(const MyApp());
 }
 
+//hol
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -18,9 +19,6 @@ class MyApp extends StatelessWidget {
       theme: AppTheme().getTheme(),
       debugShowCheckedModeBanner: false,
       title: 'Login Demo',
-     
     );
   }
 }
-
-
