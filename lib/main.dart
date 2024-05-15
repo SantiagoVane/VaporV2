@@ -4,10 +4,7 @@ import 'package:memes/config/router/app_router.dart';
 import 'package:memes/config/theme/app_theme.dart';
 // Importa el paquete shared_preferences
 
-//Tercer commit salgado2
-//Segundo commit Vangeas
-//PrimerCommit Vanegas
-
+//Hola mundo Vanegas commit
 void main() {
   runApp(const MyApp());
 }
